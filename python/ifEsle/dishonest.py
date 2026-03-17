@@ -24,7 +24,7 @@ prints "Howdy" if spam == 2
 
 prints "Greetings!" for anything else
 
-Write the Python code. I'll grade it."""
+"""
 
 spam =25
 
