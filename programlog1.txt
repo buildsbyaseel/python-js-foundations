@@ -1,0 +1,28 @@
+ 2026-03-26 07:20:10,798 - DEBUG - start the program
+ 2026-03-26 07:20:10,798 - INFO - Start of factorial for input: (-2)
+ 2026-03-26 07:20:10,798 - CRITICAL - user entered a negative number Math Logic Failing.
+ 2026-03-26 07:20:10,799 - DEBUG - END of program
+ 2026-03-26 07:20:11,812 - DEBUG - start the program
+ 2026-03-26 07:20:11,812 - INFO - Start of factorial for input: (-2)
+ 2026-03-26 07:20:11,812 - CRITICAL - user entered a negative number Math Logic Failing.
+ 2026-03-26 07:20:11,812 - DEBUG - END of program
+ 2026-03-26 07:20:12,172 - DEBUG - start the program
+ 2026-03-26 07:20:12,172 - INFO - Start of factorial for input: (-2)
+ 2026-03-26 07:20:12,173 - CRITICAL - user entered a negative number Math Logic Failing.
+ 2026-03-26 07:20:12,173 - DEBUG - END of program
+ 2026-03-26 07:20:12,350 - DEBUG - start the program
+ 2026-03-26 07:20:12,350 - INFO - Start of factorial for input: (-2)
+ 2026-03-26 07:20:12,350 - CRITICAL - user entered a negative number Math Logic Failing.
+ 2026-03-26 07:20:12,351 - DEBUG - END of program
+ 2026-03-26 07:20:12,520 - DEBUG - start the program
+ 2026-03-26 07:20:12,520 - INFO - Start of factorial for input: (-2)
+ 2026-03-26 07:20:12,520 - CRITICAL - user entered a negative number Math Logic Failing.
+ 2026-03-26 07:20:12,520 - DEBUG - END of program
+ 2026-03-26 07:21:16,281 - DEBUG - start the program
+ 2026-03-26 07:21:16,281 - INFO - Start of factorial for input: (-2)
+ 2026-03-26 07:21:16,281 - CRITICAL - user entered a negative number Math Logic Failing.
+ 2026-03-26 07:21:16,281 - DEBUG - END of program
+ 2026-03-26 08:23:31,349 - DEBUG - start the program
+ 2026-03-26 08:23:31,350 - INFO - Start of factorial for input: (-2)
+ 2026-03-26 08:23:31,350 - CRITICAL - user entered a negative number Math Logic Failing.
+ 2026-03-26 08:23:31,350 - DEBUG - END of program

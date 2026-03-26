@@ -9,7 +9,7 @@ try:
         time.sleep(0.01)
     
         if indent_increasing:
-            indent = indent + 1
+            indent = indent +1
             if indent == 30:
                 indent_increasing = False
 

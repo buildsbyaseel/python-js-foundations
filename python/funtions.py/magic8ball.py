@@ -20,5 +20,5 @@ def get_answer(answer_number):
     elif answer_number == 9:
         return 'Very doubtful'
     
-print (input(str('Ask a yes or no question:')))
+print (input('Ask a yes or no question:'))
 print (get_answer(random.randint(1,9)))
